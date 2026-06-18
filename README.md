@@ -30,6 +30,20 @@ Para garantir a qualidade e a cobertura eficiente do fluxo de login sem redundâ
 
 ---
 
+## Cobertura dos Cenários
+
+| Cenário | Status |
+|----------|----------|
+| Login com credenciais válidas | ✅ |
+| Usuário inválido | ✅ |
+| Senha inválida | ✅ |
+| Usuário e senha inválidos | ✅ |
+| Campos vazios | ✅ |
+| Usuário vazio | ✅ |
+| Senha vazia | ✅ |
+
+---
+
 ## 🛠️ Próximos Passos (Roadmap de Automação)
 - [ ] Configuração do ambiente de testes automatizados.
 - [ ] Criação dos scripts de automação utilizando **Cypress** e **JavaScript**.
