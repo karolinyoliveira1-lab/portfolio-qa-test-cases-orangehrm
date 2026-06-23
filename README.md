@@ -14,7 +14,7 @@ https://opensource-demo.orangehrmlive.com/
 
 ---
 
-##  Estratégia de Testes & Técnicas Utilizadas
+##  Estratégia de Testes e Técnicas Utilizadas
 
 Para garantir a qualidade e a cobertura eficiente do fluxo de login, foram aplicadas as seguintes abordagens de Engenharia de QA:
 
